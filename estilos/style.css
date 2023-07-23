@@ -30,10 +30,10 @@ h1{
 button{
     width: 450px;
     height: 60px;
-    border-radius: 30px;
+    border-radius: 10px;
     border: 1px solid #E645D5;
 
-    margin-top:35px;
+    margin-top:25px;
     background-color: #332F2E;
     color: white;
 }
